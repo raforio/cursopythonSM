@@ -1,1 +1,1 @@
-# cursopythonSM
+# cursoPythonAcademiaPlan San MArcos
